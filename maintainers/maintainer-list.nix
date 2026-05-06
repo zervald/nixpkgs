@@ -30569,6 +30569,13 @@
     github = "Zerodya";
     githubId = 73220426;
   };
+  zervald = {
+    name = "Richard Demers";
+    github = "zervald";
+    githubId = 1779338;
+    email = "richardd1894@gmail.com";
+    keys = [ { fingerprint = "1+iRKHdFkqsrnXE0ylYWNpZkjR704Q75w+T/AOM2uSM"; } ];
+  };
   zestsystem = {
     email = "mk337337@gmail.com";
     github = "zestsystem";
